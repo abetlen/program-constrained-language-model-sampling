@@ -1,0 +1,9 @@
+.envrc
+.local/
+
+.venv/
+__pycache__/
+
+build/
+node_modules/
+target/

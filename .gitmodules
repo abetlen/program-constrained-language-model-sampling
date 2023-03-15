@@ -1,0 +1,3 @@
+[submodule "tree-sitter-json-prefix"]
+	path = tree-sitter-json-prefix
+	url = git@github.com:abetlen/tree-sitter-json-prefix.git
