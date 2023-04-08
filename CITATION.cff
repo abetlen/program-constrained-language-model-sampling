@@ -1,0 +1,16 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Program Constrained Language Model Sampling
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Andrei
+    family-names: Betlen
+    email: abetlen@gmail.com
+repository-code: >-
+  https://github.com/abetlen/program-constrained-language-model-sampling
+license: MIT
