@@ -10,11 +10,9 @@ packages = [{include = "program_constrained_transformer_inference"}]
 [tool.poetry.dependencies]
 python = "^3.8"
 tree-sitter = "^0.20.1"
-torch = {version = "^2.0.0+cpu", source = "torch-cpu"}
-tiktoken = "^0.3.1"
 numpy = "^1.24.2"
-transformers = "^4.26.1"
 jsonschema = "^4.17.3"
+llama-cpp-python = "^0.1.22"
 
 
 [tool.poetry.group.dev.dependencies]
