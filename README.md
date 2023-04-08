@@ -25,6 +25,12 @@ We then force the transformer to *only* sample over these valid tokens.
 - [Incremental Regular Expressions](http://jkff.info/articles/ire/)
 - [Tree Sitter](https://tree-sitter.github.io/tree-sitter/creating-parsers)
 
+## Models
+
+- [x] llama via llama.cpp
+- [ ] rwkv via rwkv.cpp
+
 ## Program Implementations
 
 - **[JSON](./README.md)**: Extracts JSON objects from unstructured text.
+- **[JSON Schema](./README.md)**: Extracts JSON objects from unstructured text that match a given JSON schema.
